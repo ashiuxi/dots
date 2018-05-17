@@ -81,7 +81,9 @@
 									<h4 style="text-align: left;"><a href="files/20181/telecom/PlanoEnsino.pdf" class="icon fa-file-pdf-o" target="_blank"> > Plano de Ensino</a></h4>
 									<h4 style="text-align: left;"><a href="files/20181/telecom/Aula01Intro.pdf" class="icon fa-file-pdf-o" target="_blank"> > Aula 01 - Intro</a></h4>
 									<h4 style="text-align: left;"><a href="files/20181/telecom/Aula02SistSinais.pdf" class="icon fa-file-pdf-o" target="_blank"> > Aula 02 - Sistemas e Sinais</a></h4>
-									</section>
+									<h4 style="text-align: left;"><a href="files/20181/telecom/Aulas0304OndasRadio.pdf" class="icon fa-file-pdf-o" target="_blank"> > Aulas 03/04 - Ondas de Rádio</a></h4>
+									<h4 style="text-align: left;"><a href="files/20181/telecom/Aulas0506ModAM.pdf" class="icon fa-file-pdf-o" target="_blank"> > Aulas 05/06 - Modulação AM</a></h4>
+								</section>
 							</div>
 							<div class="4u">
 								<section class="box style1">

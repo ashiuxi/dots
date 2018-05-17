@@ -81,6 +81,9 @@
 									<h4 style="text-align: left;"><a href="files/20181/autom/EmentaAutom.pdf" class="icon fa-file-pdf-o" target="_blank"> > Plano de Ensino</a></h4>									
 									<h4 style="text-align: left;"><a href="files/20181/autom/Aula01Intro.pdf" class="icon fa-file-pdf-o" target="_blank"> > Aula 01 - Introdução</a></h4>
 									<h4 style="text-align: left;"><a href="files/20181/autom/Aula02LadderI.pdf" class="icon fa-file-pdf-o" target="_blank"> > Aula 02 - Ladder I - E/S Dig</a></h4>
+									<h4 style="text-align: left;"><a href="files/20181/autom/Aula02Ex01.cli" class="icon fa-arrow-circle-down" target="_blank"> > Aula 02 - Ex 01</a></h4>
+									<h4 style="text-align: left;"><a href="files/20181/autom/Aula02Ex02.cli" class="icon fa-arrow-circle-down" target="_blank"> > Aula 02 - Ex 02</a></h4>
+									<h4 style="text-align: left;"><a href="files/20181/autom/Aula03LadderII.pdf" class="icon fa-file-pdf-o" target="_blank"> > Aula 03 - Ladder II</a></h4>
 								</section>
 							</div>
 							<div class="4u">
