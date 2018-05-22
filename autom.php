@@ -84,6 +84,10 @@
 									<h4 style="text-align: left;"><a href="files/20181/autom/Aula02Ex01.cli" class="icon fa-arrow-circle-down" target="_blank"> > Aula 02 - Ex 01</a></h4>
 									<h4 style="text-align: left;"><a href="files/20181/autom/Aula02Ex02.cli" class="icon fa-arrow-circle-down" target="_blank"> > Aula 02 - Ex 02</a></h4>
 									<h4 style="text-align: left;"><a href="files/20181/autom/Aula03LadderII.pdf" class="icon fa-file-pdf-o" target="_blank"> > Aula 03 - Ladder II</a></h4>
+									<h4 style="text-align: left;"><a href="files/20181/autom/Aula03Ex01.cli" class="icon fa-arrow-circle-down" target="_blank"> > Aula 03 - Ex 01</a></h4>
+									<h4 style="text-align: left;"><a href="files/20181/autom/Aula03Ex02.cli" class="icon fa-arrow-circle-down" target="_blank"> > Aula 03 - Ex 02</a></h4>
+									<h4 style="text-align: left;"><a href="files/20181/autom/Aula03Ex03.cli" class="icon fa-arrow-circle-down" target="_blank"> > Aula 03 - Ex 03</a></h4>
+									<h4 style="text-align: left;"><a href="files/20181/autom/Aula03Ex04.cli" class="icon fa-arrow-circle-down" target="_blank"> > Aula 03 - Ex 04</a></h4>
 								</section>
 							</div>
 							<div class="4u">
