@@ -79,6 +79,7 @@
 									<span class="icon featured fa-book"></span>
 									<h3>Material Didático</h3>
 									<h4 style="text-align: left;"><a href="files/20181/lin/PlanoEnsino.pdf" class="icon fa-file-pdf-o" target="_blank"> > Plano de Ensino</a></h4>
+									<h4 style="text-align: left;"><a href="files/20181/lin/amp_peq_sinais.pdf" class="icon fa-file-pdf-o" target="_blank"> > Sim - Amplificador Pequenos Sinais</a></h4>
 								</section>
 							</div>
 							<div class="4u">

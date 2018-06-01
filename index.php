@@ -78,7 +78,7 @@
 							<h3>Eletrônica Linear II</h3>
 									<p>TER 08:00 às 10:00
 									<br>QUI  08:00 às 12:00
-									<br>Sala </p>
+									<br>Sala 13 / 30</p>
 									<p><a href="lin.php" class="button">Acessar Conteúdo</a></p>
 						</article>
 					</div>
@@ -89,7 +89,7 @@
 							<h3>Telecomunicações I</h3>
 									<p>SEX 10:00 às 12:00
 									<br>
-									<br>Sala </p>
+									<br>Sala 09</p>
 									<p><a href="telecom.php" class="button">Acessar Conteúdo</a></p>
 						</article>
 					</div>

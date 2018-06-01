@@ -89,6 +89,9 @@
 								<section class="box style1">
 									<span class="icon featured fa-list-ol"></span>
 									<h3>Listas de Exercícios</h3>
+									<h4 style="text-align: left;"><a href="files/20181/telecom/Lista_01.pdf" class="icon fa-file-pdf-o" target="_blank"> > Lista 01 - 22/06/2018</a></h4>
+									<h4 style="text-align: left;"><a href="files/20181/telecom/Lista_02.pdf" class="icon fa-file-pdf-o" target="_blank"> > Lista 02 - 22/06/2018</a></h4>
+									<h4 style="text-align: left;"><a href="files/20181/telecom/Lista_03.pdf" class="icon fa-file-pdf-o" target="_blank"> > Lista 03 - 22/06/2018</a></h4>
 									</section>
 							</div>
 							<div class="4u">
