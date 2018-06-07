@@ -86,6 +86,8 @@
 								<section class="box style1">
 									<span class="icon featured fa-list-ol"></span>
 									<h3>Listas de Exercício</h3>
+									<h4 style="text-align: left;"><a href="files/20181/lin/Lista_01.pdf" class="icon fa-file-pdf-o" target="_blank"> > Lista 01 - 26/06/2018</a></h4>
+									<h4 style="text-align: left;"><a href="files/20181/lin/Lista_02.pdf" class="icon fa-file-pdf-o" target="_blank"> > Lista 02 - 26/06/2018</a></h4>
 								</section>
 							</div>
 							<div class="4u">
