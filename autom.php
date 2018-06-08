@@ -96,6 +96,13 @@
 									<h3>Listas de Exercício</h3>
 									<h4 style="text-align: left;"><a href="files/20181/autom/Lista_01.pdf" class="icon fa-file-pdf-o" target="_blank"> > Lista 01 - 22/06/2018</a></h4>									
 									<h4 style="text-align: left;"><a href="files/20181/autom/Lista_02.pdf" class="icon fa-file-pdf-o" target="_blank"> > Lista 02 - 22/06/2018</a></h4>									
+									<hr>
+									<h3>Projeto Final</h3>
+									<h4 style="text-align: left;"><a href="files/20181/autom/grupos.pdf" class="icon fa-file-pdf-o" target="_blank"> > Grupos</a></h4>									
+									<h4 style="text-align: left;"><a href="files/20181/autom/ProjFinal1.pdf" class="icon fa-file-pdf-o" target="_blank"> > Projeto 01 - 26/06/2018</a></h4>									
+									<h4 style="text-align: left;"><a href="files/20181/autom/ProjFinal2.pdf" class="icon fa-file-pdf-o" target="_blank"> > Projeto 02 - 26/06/2018</a></h4>									
+									<h4 style="text-align: left;"><a href="files/20181/autom/ProjFinal3.pdf" class="icon fa-file-pdf-o" target="_blank"> > Projeto 03 - 26/06/2018</a></h4>	
+																										
 								</section>
 							</div>
 							<div class="4u">
