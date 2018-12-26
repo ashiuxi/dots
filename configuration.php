@@ -79,7 +79,7 @@ class JConfig
 
 	/* Mail Settings */
 	public $mailonline = '1';
-	public $mailer      = 'sendmail';
+	public $mailer      = 'mail';
 	public $mailfrom    = '';
 	public $fromname    = '';
 	public $massmailoff = '0';
