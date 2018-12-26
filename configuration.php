@@ -23,11 +23,10 @@
  * Windows -> copy configuration.php ../
  *
  */
-$url = parse_url(getenv("CLEARDB_DATABASE_URL"));
-
 class JConfig
 {
-
+    public $url = parse_url(getenv("CLEARDB_DATABASE_URL"));
+    
 	/* Site Settings */
 	public $offline = '0';
 	public $offline_message = 'This site is down for maintenance.<br /> Please check back again soon.';
