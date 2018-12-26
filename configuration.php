@@ -41,7 +41,7 @@ class JConfig
 	public $frontediting = '1';
 
 	/* Database Settings */
-	public $dbtype = 'mysql';               // Normally mysqli
+	public $dbtype = 'mysqli';               // Normally mysqli
 	public $host = $url["host"];              // This is normally set to localhost
 	public $user = $url["user"];                       // DB username
 	public $password = $url["pass"];                   // DB password
