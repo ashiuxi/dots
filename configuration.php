@@ -24,9 +24,7 @@
  *
  */
 class JConfig
-{
-    public $url = parse_url(getenv("CLEARDB_DATABASE_URL"));
-    
+{    
 	/* Site Settings */
 	public $offline = '0';
 	public $offline_message = 'This site is down for maintenance.<br /> Please check back again soon.';
@@ -41,10 +39,10 @@ class JConfig
 
 	/* Database Settings */
 	public $dbtype = 'mysqli';               // Normally mysqli
-	public $host = $url["host"];              // This is normally set to localhost
-	public $user = $url["user"];                       // DB username
-	public $password = $url["pass"];                   // DB password
-	public $db = substr($url["path"], 1);                         // DB database name
+	public $host = 'us-cdbr-iron-east-01.cleardb.net';              // This is normally set to localhost
+	public $user = 'b2d5fc9ef48d99';                       // DB username
+	public $password = 'aa3943fa';                   // DB password
+	public $db = 'heroku_4458fdf9173af2e';                         // DB database name
 	public $dbprefix = 'jos_';               // Do not change unless you need to!
 
 	/* Server Settings */
