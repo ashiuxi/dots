@@ -41,12 +41,12 @@ class JConfig
 	public $dbtype = 'mysqli';               // Normally mysqli
 	public $host = 'us-cdbr-iron-east-01.cleardb.net';              // This is normally set to localhost
 	public $user = 'b2d5fc9ef48d99';                       // DB username
-	public $password = 'aa3943fa';                   // DB password
+	public $password = 'aa3943faGSDGDGD';                   // DB password
 	public $db = 'heroku_4458fdf9173af2e';                         // DB database name
 	public $dbprefix = 'jos_';               // Do not change unless you need to!
 
 	/* Server Settings */
-	public $secret = 'ASCRAP';     // Change this to something more secure
+	public $secret = 'hh';     // Change this to something more secure
 	public $gzip = '0';
 	public $error_reporting = 'default';
 	public $helpurl = 'https://help.joomla.org/proxy?keyref=Help{major}{minor}:{keyref}&lang={langcode}';
