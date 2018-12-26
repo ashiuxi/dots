@@ -23,9 +23,10 @@
  * Windows -> copy configuration.php ../
  *
  */
+$url = parse_url(getenv("CLEARDB_DATABASE_URL"));
+
 class JConfig
 {
-$url = parse_url(getenv("CLEARDB_DATABASE_URL"));
 
 	/* Site Settings */
 	public $offline = '0';
