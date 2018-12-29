@@ -23,6 +23,23 @@
  * Windows -> copy configuration.php ../
  *
  */
+
+// ** ClearDB settings - from Heroku Environment ** //
+$db = parse_url($_ENV["CLEARDB_DATABASE_URL"]);
+
+// ** MySQL settings - You can get this info from your web host ** //
+/** The name of the database for Joomla */
+define('DB_NAME', trim($db["path"],"/"));
+
+/** MySQL database username */
+define('DB_USER', $db["user"]);
+
+/** MySQL database password */
+define('DB_PASSWORD', $db["pass"]);
+
+/** MySQL hostname */
+define('DB_HOST', $db["host"]);
+
 class JConfig
 {    
 	/* Site Settings */
@@ -38,12 +55,19 @@ class JConfig
 	public $frontediting = '1';
 
 	/* Database Settings */
-	public $dbtype = 'mysqli';               // Normally mysqli
+	/*public $dbtype = 'mysqli';               // Normally mysqli
 	public $host = 'us-cdbr-iron-east-01.cleardb.net';              // This is normally set to localhost
 	public $user = 'b2d5fc9ef48d99';                       // DB username
 	public $password = 'aa3943fa';                   // DB password
 	public $db = 'heroku_4458fdf9173af2e';                         // DB database name
-	public $dbprefix = 'jos_';               // Do not change unless you need to!
+	public $dbprefix = 'jos_';               // Do not change unless you need to!*/
+	
+	public $dbtype = 'mysqli';
+	public $host = DB_HOST;
+	public $user = DB_USER;
+	public $password = DB_PASSWORD;
+	public $db = DB_NAME;
+	public $dbprefix = 'tm_';
 
 	/* Server Settings */
 	public $secret = 'hh';     // Change this to something more secure
@@ -56,8 +80,8 @@ class JConfig
 	public $ftp_pass = '';
 	public $ftp_root = '';
 	public $ftp_enable = '0';
-	public $tmp_path = 'app/tmp';                // This path needs to be writable by Joomla!
-	public $log_path = 'app/administrator/logs'; // This path needs to be writable by Joomla!
+	public $tmp_path = '/tmp';                // This path needs to be writable by Joomla!
+	public $log_path = '/administrator/logs'; // This path needs to be writable by Joomla!
 	public $live_site = '';                   // Optional, full URL to Joomla install.
 	public $force_ssl = 0;                    // Force areas of the site to be SSL ONLY.  0 = None, 1 = Administrator, 2 = Both Site and Administrator
 
