@@ -56,8 +56,8 @@ class JConfig
 	public $ftp_pass = '';
 	public $ftp_root = '';
 	public $ftp_enable = '0';
-	public $tmp_path = '/tmp';                // This path needs to be writable by Joomla!
-	public $log_path = '/administrator/logs'; // This path needs to be writable by Joomla!
+	public $tmp_path = 'app/tmp';                // This path needs to be writable by Joomla!
+	public $log_path = 'app/administrator/logs'; // This path needs to be writable by Joomla!
 	public $live_site = '';                   // Optional, full URL to Joomla install.
 	public $force_ssl = 0;                    // Force areas of the site to be SSL ONLY.  0 = None, 1 = Administrator, 2 = Both Site and Administrator
 
